@@ -5,7 +5,7 @@ This book will introduce you to 24 of the APIs released as part of Cognitive Ser
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-Chapter 4 does not have any code files
+Chapter 4 and 10 does not have any code files
 
 The code will look like the following:
 ```
