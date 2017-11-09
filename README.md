@@ -29,7 +29,7 @@ To get the full experience of the examples, you should have access to a web came
 
 * [OpenCV Computer Vision Application Programming [Video]](https://www.packtpub.com/application-development/opencv-computer-vision-application-programming-video?utm_source=github&utm_medium=repository&utm_campaign=9781849694889)
 
-* [OpenCV Computer Vision Application Programming [Video]](https://www.packtpub.com/application-development/opencv-computer-vision-application-programming-video?utm_source=github&utm_medium=repository&utm_campaign=9781849694889)
+* [Python Machine Learning - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787125933)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
